@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "464559840395",
+    "firebase_url": "https://panelq-fd369-default-rtdb.firebaseio.com",
+    "project_id": "panelq-fd369",
+    "storage_bucket": "panelq-fd369.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464559840395:android:02b54d9a1b9dae262a888e",
+        "android_client_info": {
+          "package_name": "com.application.panelq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "464559840395-lf9ee406anp8eu376apqnfbqvvvpgcka.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.application.panelq",
+            "certificate_hash": "0170fecfb801701b82fdeeef63a4258605b5dc4f"
+          }
+        },
+        {
+          "client_id": "464559840395-3ojffij38fu76afcj6ehdvn7jiepm064.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClgBMkaN3KrXYHH8e4vjiB7atkeNYXVU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "464559840395-3ojffij38fu76afcj6ehdvn7jiepm064.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

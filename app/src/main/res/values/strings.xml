@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">PanelQ</string>
+    <string name="panel_q">Panel Q</string>
+    <string name="email_address">Email address</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password ?</string>
+    <string name="don_t_have_an_account">Don\'t have an account ?</string>
+    <string name="sign_up">Sign up</string>
+    <string name="login">Login</string>
+    <string name="signingin">Signing in..</string>
+    <string name="your_name">Name</string>
+    <string name="user_id">User id</string>
+    <string name="confirm_your_password">Confirm password</string>
+    <string name="signingup">Signingup..</string>
+    <string name="search">Search Panel</string>
+    <string name="home">Home</string>
+    <string name="subscriptions">Subscriptions</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="library">Library</string>
+    <string name="my_profile">My Profile</string>
+    <string name="logout">Log out</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="phone_number">Phone number</string>
+    <string name="others">Others</string>
+    <string name="panel_name">Panel Name</string>
+    <string name="panel_description">Panel Description</string>
+    <string name="create_panel">Create panel</string>
+    <string name="creating_panel">Creating..</string>
+    <string name="my_panels">My Panel</string>
+    <string name="new_panel">New Panel</string>
+    <string name="you_do_not_have_any_panels">You do not have any panels</string>
+    <string name="one_word_answer">One word answer</string>
+    <string name="question">Question</string>
+    <string name="create_post">Create post</string>
+    <string name="creating_post">Creating..</string>
+    <string name="post">Post</string>
+    <string name="enter_answer">Enter answer</string>
+    <string name="submit_answer">Submit answer</string>
+
+</resources>

@@ -1,0 +1,36 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/singleRowDashboard"
+    android:orientation="vertical"
+    android:padding="15dp">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        >
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/imgPanelDashboard"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            app:civ_border_color="#FF000000"
+            app:civ_border_width="0.5dp" />
+
+        <TextView
+            android:id="@+id/txtPanelDashboard"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="20dp"
+            android:layout_toEndOf="@+id/imgPanelDashboard"
+            android:textSize="18sp"
+            android:textColor="@color/colorBlack"/>
+    </RelativeLayout>
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/panelSolvedCount"
+    android:textSize="16sp"
+    />
+
+</LinearLayout>
