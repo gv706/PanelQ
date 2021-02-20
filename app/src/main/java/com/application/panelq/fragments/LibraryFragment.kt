@@ -1,4 +1,4 @@
-package com.application.panelq.Fragments
+package com.application.panelq.fragments
 
 import android.os.Bundle
 import android.view.LayoutInflater

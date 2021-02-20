@@ -7,10 +7,10 @@ import android.view.MenuItem
 import androidx.appcompat.app.AppCompatActivity
 import androidx.appcompat.widget.Toolbar
 import androidx.core.app.ActivityCompat
-import com.application.panelq.Fragments.DashboardFragment
-import com.application.panelq.Fragments.MyPanelsFragment
-import com.application.panelq.Fragments.ProfileFragment
-import com.application.panelq.Fragments.QuestionsHomeFragment
+import com.application.panelq.fragments.DashboardFragment
+import com.application.panelq.fragments.MyPanelsFragment
+import com.application.panelq.fragments.ProfileFragment
+import com.application.panelq.fragments.QuestionsHomeFragment
 import com.application.panelq.R
 import com.application.panelq.StoreSharedPreferences
 import com.google.android.material.bottomnavigation.BottomNavigationView
